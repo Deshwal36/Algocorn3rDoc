@@ -1,20 +1,18 @@
-# Algocorn3rDoc
-Recommended References Doc for Improving Algorithms concept
+# Algocorn3rDoc : 🥅 2021 Goals
+<span style="color:Red">**_Recommended References Doc for Improving Algorithms concept_**</span>
 
-Simple Steps to improve your programming skills
+### 📕 Simple steps to improve your programming skills
 
-1. Algorithms and Data Structure
-   Learns and practice problems
+- `Algorithms and Data Structure`   
+   **_Learns and practice problems_**
+  
+- `Competitive Programming`   
+   **_There are many websites where you can compete with others or just improve your level, Create account on those website and start practising_**
 
-2. Read others Code
-   Compare or see their code, look at the effeciency and try to improve yours.
+- `Explore Other Languages`      
+   **_Different languages have different features and different ways to implement things, Try to learn and Implement_**
 
-3. Competitive Programming
-   There are many websites where you can compete with others or just improve your level, Create account on those website and start practising
-
-4. Explore Other Languages
-   Different languages have different features and different ways to implementing things, Try to learn and implement.
-
-5. Build Projects
-   Small or big just start building project
-   Build a project of your interest.
+- `Build Projects`  
+   
+   **_Small or big just start building project, Build a project of your interest_**
+   
